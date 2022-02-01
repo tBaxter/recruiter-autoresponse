@@ -12,7 +12,7 @@ Thanks so much for reaching out. I'm always interested in hearing about what new
 
 It does however mean that I don't have the time to hop on a call with everyone who reaches out.
 
-I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. A lot of the time, incoming messages represent a very poor fit, and I'm sure we both want to avoid that.
+I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. A lot of the time, incoming messages represent a very poor fit, and I'm sure we both want to avoid that. In particular, I should note that at this time I am not considering any opportunities that are not director-level or above.
 
 Can you send along the company name, a job description and, total compensation details for the role you're reaching out in reference to? 
 
@@ -23,5 +23,5 @@ Thanks again for reaching out!
  
 I look forward to hearing from you.
 
-Alex
+Carter (not T)
 ```
