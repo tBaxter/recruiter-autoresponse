@@ -18,10 +18,8 @@ Can you send along the company name, a job description and, total compensation d
 
 While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
 
-In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
-Thanks again for reaching out!
- 
-I look forward to hearing from you.
+In the absence of detailed information requested above regarding the nature of the opportunity in question, I will be unavailable for further discussion.
+Thanks again for reaching out and I look forward to hearing from you.
 
 Carter (not T)
 ```
