@@ -8,7 +8,9 @@ If you like it, please consider leaving a github star.  I think that it would be
 ## the autoresponse
 
 ```
-Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a technical leader I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
+Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. 
+I'm sure you can imagine that as a technical leader I get a very high volume of recruiters reaching out on LinkedIn. 
+It is a wonderful position of privilege to be in and I'm thankful for it.
 
 It does however mean that I don't have the time to hop on a call with everyone who reaches out.
 
